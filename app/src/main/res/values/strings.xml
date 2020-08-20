@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">courseraapp</string>
+    <string name="titulo_app">Bienvenidos</string>
+    <string name="subtitulo_app">Realice la consulta de sus servicos básicos</string>
+    <string name="boton_app">Acceso Rápido</string>
+</resources>
